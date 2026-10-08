@@ -12,7 +12,7 @@ const products=[
   name:'ShortLink Bot — Telegram URL Shortener',
   description:'Telegram bot source code that converts submitted links through a connected custom URL shortener, with auth, logs, broadcast and admin features.',
   category:'telegram',
-  price:'Contact',
+  price:'₹99',
   short:'SHORTLINK',
   image:'assets/shortlink-bot-banner.svg',
   url:'shortlink-bot.html'
