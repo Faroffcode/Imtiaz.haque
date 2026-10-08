@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">PayWeb — FAROFF promotional banner</title>
+<desc id="desc">Dark promotional artwork for PayWeb website source code priced at 99 rupees.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07100d"/><stop offset="1" stop-color="#101817"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b8ff45"/><stop offset="1" stop-color="#62e66b"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="1200" height="700" rx="32" fill="url(#bg)"/>
+<circle cx="1040" cy="80" r="150" fill="#9cff3b" opacity=".11" filter="url(#blur)"/>
+<circle cx="180" cy="630" r="170" fill="#66ff77" opacity=".07" filter="url(#blur)"/>
+<rect x="52" y="48" width="1096" height="604" rx="26" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+<text x="92" y="105" fill="#b8ff45" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">FAROFF · DIGITAL PRODUCT</text>
+<text x="92" y="190" fill="#fff" font-family="Arial,sans-serif" font-size="82" font-weight="800">PayWeb</text>
+<text x="92" y="240" fill="#b7c1bd" font-family="Arial,sans-serif" font-size="28">Simple payment landing page source code.</text>
+<text x="92" y="335" fill="url(#glow)" font-family="Arial,sans-serif" font-size="70" font-weight="800">₹99</text>
+<text x="92" y="378" fill="#9aa7a2" font-family="Arial,sans-serif" font-size="18">HTML · Tailwind CSS · JavaScript</text>
+<rect x="92" y="425" width="230" height="58" rx="29" fill="#b8ff45"/>
+<text x="207" y="462" text-anchor="middle" fill="#07100d" font-family="Arial,sans-serif" font-size="19" font-weight="800">VIEW PRODUCT</text>
+<g transform="translate(680 105)">
+ <rect width="390" height="470" rx="28" fill="#0b1513" stroke="#d8ffe0" stroke-opacity=".16"/>
+ <rect x="24" y="24" width="342" height="72" rx="16" fill="#13221d"/>
+ <circle cx="61" cy="60" r="19" fill="#b8ff45"/>
+ <text x="95" y="55" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700">PayWeb</text>
+ <text x="95" y="77" fill="#7f8e88" font-family="Arial,sans-serif" font-size="12">PAYMENT PAGE</text>
+ <rect x="48" y="132" width="294" height="118" rx="18" fill="#101d19"/>
+ <text x="195" y="168" text-anchor="middle" fill="#7f8e88" font-family="Arial,sans-serif" font-size="12">PAYMENT OPTIONS</text>
+ <rect x="76" y="187" width="238" height="40" rx="20" fill="#b8ff45"/>
+ <text x="195" y="213" text-anchor="middle" fill="#07100d" font-family="Arial,sans-serif" font-size="14" font-weight="700">UPI · PAYPAL · MORE</text>
+ <rect x="48" y="278" width="138" height="104" rx="18" fill="#101d19"/>
+ <rect x="204" y="278" width="138" height="104" rx="18" fill="#101d19"/>
+ <text x="117" y="317" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">INDIA</text>
+ <text x="117" y="344" text-anchor="middle" fill="#7f8e88" font-family="Arial,sans-serif" font-size="12">UPI</text>
+ <text x="273" y="317" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">GLOBAL</text>
+ <text x="273" y="344" text-anchor="middle" fill="#7f8e88" font-family="Arial,sans-serif" font-size="12">PAYMENT LINKS</text>
+ <text x="48" y="426" fill="#b8ff45" font-family="Arial,sans-serif" font-size="13" font-weight="700">READY TO CUSTOMIZE</text>
+ <text x="48" y="451" fill="#84918c" font-family="Arial,sans-serif" font-size="12">Responsive · Static · Easy to deploy</text>
+</g>
+<text x="92" y="598" fill="#73807b" font-family="Arial,sans-serif" font-size="14">PayWeb is based on the MIT-licensed TechifyBots/PayWeb project.</text>
+</svg>
