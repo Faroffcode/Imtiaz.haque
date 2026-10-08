@@ -3,7 +3,7 @@ const products=[
   name:'PayWeb — Payment Landing Page',
   description:'A clean static payment page template for UPI and international payment methods, built with HTML, Tailwind CSS and vanilla JavaScript.',
   category:'website',
-  price:'Price on request',
+  price:'₹99',
   short:'PAYWEB',
   url:'payweb.html'
  }
