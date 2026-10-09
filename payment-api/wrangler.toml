@@ -1,0 +1,14 @@
+name = "faroff-payment-api"
+main = "src/index.js"
+compatibility_date = "2026-10-09"
+
+[vars]
+# Use exact hostnames for callback servers you control, comma-separated.
+CALLBACK_ALLOWED_HOSTS = "example.com"
+
+# Configure all credentials with Wrangler secrets, never here:
+# npx wrangler secret put FAROFF_API_KEY
+# npx wrangler secret put RAZORPAY_KEY_ID
+# npx wrangler secret put RAZORPAY_KEY_SECRET
+# npx wrangler secret put RAZORPAY_WEBHOOK_SECRET
+# npx wrangler secret put CALLBACK_SIGNING_SECRET
