@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local testing; never commit real credentials.
+FAROFF_API_KEY=replace-with-a-long-random-api-key
+RAZORPAY_KEY_ID=rzp_test_replace_me
+RAZORPAY_KEY_SECRET=replace-me
+RAZORPAY_WEBHOOK_SECRET=replace-me
+CALLBACK_SIGNING_SECRET=replace-with-a-different-long-random-secret
